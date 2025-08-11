@@ -1,0 +1,8 @@
+https://youtu.be/tiBeLLv5GJo?t=15352
+
+docker compose up 
+docker compose up --watch
+docker compose down -v
+
+
+NEXT: https://youtu.be/OGCE3OUO4G8
