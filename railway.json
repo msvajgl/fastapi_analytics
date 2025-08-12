@@ -1,7 +1,7 @@
 {
     "build": {
         "builder": "DOCKERFILE",
-        "dockerfilePath": "./Dockerfile",
+        "dockerfilePath": "./Dockerfile.web",
         "watchPatterns": [
             "requirements.txt",
             "src/**",
